@@ -1,4 +1,4 @@
-# hi! i write code here! ~
+# hi! i write code here!
 ```
  /\_/\
 ( o.o )
